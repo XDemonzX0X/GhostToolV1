@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project fullMode="0">
+  <project-home>.</project-home>
+  <exclude-files />
+  <assets>
+    <item path="data\channels.txt" dflag="131076" />
+    <item path="data\groups.txt" dflag="131076" />
+    <item path="data\info.txt" dflag="131076" />
+    <item path="data\massdm_IDs.txt" dflag="131076" />
+    <item path="data\massmention.txt" dflag="131076" />
+    <item path="data\members.txt" dflag="131076" />
+    <item path="data\roles.txt" dflag="131076" />
+    <item path="data\useragent.txt" dflag="131076" />
+    <item path="data\users.txt" dflag="131076" />
+    <item path="Kzwat.py" dflag="131076" />
+    <item path="tokens.txt" dflag="131076" />
+    <item path="utilities\Plugins\Account_Nuker.py" dflag="131076" />
+    <item path="utilities\Plugins\Auto_Login.py" dflag="131076" />
+    <item path="utilities\Plugins\DM_Deleter.py" dflag="131076" />
+    <item path="utilities\Plugins\ignore\ignore.py" dflag="131076" />
+    <item path="utilities\Plugins\QR_Grabber.py" dflag="131076" />
+    <item path="utilities\Plugins\Server_Lookup.py" dflag="131076" />
+    <item path="utilities\Plugins\Token_Info.py" dflag="131076" />
+    <item path="utilities\Settings\common.py" dflag="131076" />
+    <item path="utilities\Settings\libarys.py" dflag="131076" />
+    <item path="utilities\Settings\update.py" dflag="131076" />
+  </assets>
+  <inspect-dirs>
+    <item></item>
+  </inspect-dirs>
+</Project>
